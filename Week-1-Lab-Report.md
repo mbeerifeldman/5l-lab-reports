@@ -15,7 +15,7 @@ Step 2: **Installing Visual Studio Code**
 2. click [this](https://code.visualstudio.com/) to install and follow instructions from your computer
 3. when you open it, there will be a welcome page possibly with set up messages under "Get Started"  
 4. ![Image][2]
-5. [2]:https://github.com/mbeerifeldman/cse-15l-lab-report/blob/main/image.png?raw=true)
+5. [2]:https://github.com/mbeerifeldman/cse-15l-lab-report/blob/main/image.png?raw=true
 5. you can skip through this set up
 
 Step 3: **Remotely Connecting your account**
@@ -23,10 +23,10 @@ Step 3: **Remotely Connecting your account**
 8. to log into account from earlier copy the following
 9. "ssh cs15lwi23zz@ieng6.ucsd.edu" *replace 'zz' with your account's letters*
 10. ![Image][3]
-5. [3]:https://github.com/mbeerifeldman/cse-15l-lab-report/blob/main/ssh.png?raw=true)
+5. [3]:https://github.com/mbeerifeldman/cse-15l-lab-report/blob/main/ssh.png?raw=true
 11. put your password and hit enter *you might get a message about fingerpring and just hit yes*
 12. ![Image][4]
-5. [4]:https://github.com/mbeerifeldman/cse-15l-lab-report/blob/main/vscode.png?raw=true)
+5. [4]:https://github.com/mbeerifeldman/cse-15l-lab-report/blob/main/vscode.png?raw=true
 
 Step 4: **Time for some commands!!**
 1. you can now try out some basic commands
