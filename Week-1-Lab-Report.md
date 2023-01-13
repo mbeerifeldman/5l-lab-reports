@@ -21,8 +21,12 @@ Step 2: **Installing Visual Studio Code**
 Step 3: **Remotely Connecting your account**
 7. next open a New Terminal by clicking terminal in top left menu and selecting it
 8. to log into account from earlier copy the following
-9. "ssh cs15lwi23zz@ieng6.ucsd.edu" *neplace 'zz' with your account's letters*
-10. put your password and hit enter *you might get a message about fingerpring and just hit yes*
+9. "ssh cs15lwi23zz@ieng6.ucsd.edu" *replace 'zz' with your account's letters*
+10. ![Image][3]
+5. [3]:https://github.com/mbeerifeldman/cse-15l-lab-report/blob/main/ssh.png?raw=true)
+11. put your password and hit enter *you might get a message about fingerpring and just hit yes*
+12. ![Image][4]
+5. [4]:https://github.com/mbeerifeldman/cse-15l-lab-report/blob/main/vscode.png?raw=true)
 
 Step 4: **Time for some commands!!**
 1. you can now try out some basic commands
