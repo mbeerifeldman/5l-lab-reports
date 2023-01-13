@@ -5,7 +5,7 @@ Step 1: **Accessing your course-specific account on ieng6**
 2. input your ucsd email name and PID
 3. click the grey button below "Additional Accounts" as seen in the image 
 4. ![Image][1]
-5. [1]:https://user-images.githubusercontent.com/114952150/212227623-be38fd1d-7983-4ec5-9d28-6a702657bc9a.png
+5. [1]:https://github.com/mbeerifeldman/cse-15l-lab-report/blob/main/Screen%20Shot%202023-01-12%20at%206.57.21%20PM.png?raw=true
 6. click change password next
 7. make sure when inputting to not click *Check Password* instead just hit **ENTER** on your kwyboard 
 8.  wait some time (dont worry if screen is white) 
