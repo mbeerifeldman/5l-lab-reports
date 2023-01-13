@@ -14,7 +14,8 @@ Step 2: **Installing Visual Studio Code**
 1. (I did not have to install as it is on my computer)
 2. click [this](https://code.visualstudio.com/) to install and follow instructions from your computer
 3. when you open it, there will be a welcome page possibly with set up messages under "Get Started"  
-4. ![Image](https://) 
+4. ![Image][1]
+5. [1]:https://github.com/mbeerifeldman/cse-15l-lab-report/blob/main/image.png?raw=true)
 5. you can skip through this set up
 
 Step 3: **Remotely Connecting your account**
