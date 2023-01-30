@@ -32,11 +32,11 @@
 ## Step 4: **Time for some commands!!**
 1. you can now try out some basic commands (cd ~, ls -a, pwd, cat, ect.)
 2. *cd: changes the directory*
-3. *cd ~: takes directory back to beginning/home directory 
-4. ls : list what is in the current directory 
-5. ls -a: includes hidden files 
-6. pwd: prints working directory
-7. cat: takes in a text file as input and returns the strings that are within it*
+3. *cd ~: takes directory back to beginning/home directory* 
+4. *ls : list what is in the current directory*
+5. *ls -a: includes hidden files*
+6. *pwd: prints working directory*
+7. *cat: takes in a text file as input and returns the strings that are within it*
 8. make sure to note spelling mistakes as these may attribute to errors in code 
 9. ![Image][5]
 10. [5]:https://github.com/mbeerifeldman/cse-15l-lab-report/blob/main/basicomands.png?raw=true
