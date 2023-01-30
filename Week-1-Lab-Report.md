@@ -1,6 +1,6 @@
  # **Tutorial for incoming 15L students**
 
-Step 1: **Accessing your course-specific account on ieng6**
+## Step 1: **Accessing your course-specific account on ieng6**
 1. to do this use [this](https://sdacs.ucsd.edu/~icc/index.php)
 2. input your ucsd email name and PID
 3. click the grey button below "Additional Accounts" as seen in the image 
